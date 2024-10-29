@@ -25,15 +25,25 @@ A Python script that reads a book from a text file, counts the words, and genera
 2.  Navigate to the project directory.
 3.  Run the script with:
 
-    `python main.py`
+    ```
+    python main.py
+    ```
 
     or, if using `python3`:
-
-    `python3 main.py`
+    ```
+    python3 main.py
+    ```
 
 ## Sample Output
 
-`--- Begin report of books/frankenstein.txt --- 77986 words found in the document  The 'e' character was found 46043 times The 't' character was found 30365 times ... --- End report ---`
+```
+--- Begin report of books/frankenstein.txt --- 
+77986 words found in the document  
+The 'e' character was found 46043 times 
+The 't' character was found 30365 times 
+... 
+--- End report ---
+```
 
 ## Customization
 
